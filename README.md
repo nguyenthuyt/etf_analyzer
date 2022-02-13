@@ -150,12 +150,12 @@ INNER JOIN SQ ON GDOT.time = SQ.time;
 (2) For the ETF portfolio, calculate average daily returns, annualized return value, and cumulative returns.
 
 ![JupyterLab notebook etf daily returns](Images/etf_portfolio_daily_returns.PNG)
-![JupyterLab notebook etf annualized return](Images/etf_annualized_return.png)
-![JupyterLab notebook joined etf final cumulative return](Images/etf_final_cum_return.png)
+![JupyterLab notebook etf annualized return](Images/etf_annualized_return.PNG)
+![JupyterLab notebook joined etf final cumulative return](Images/etf_final_cum_return.PNG)
 
 (3) Using hvplot, create an interactive line plot that visualizes the cumulative return values of the ETF portfolio.
 
-![JupyterLab notebook joined etf cumulative return plot](Images/etf_cum_returns_plot.png)
+![JupyterLab notebook joined etf cumulative return plot](Images/etf_cum_returns_plot.PNG)
 
 ### **Step 4: Deploy the Notebook as a Web Application**
 Use the Voilà library to deploy your notebook as a web application. 
