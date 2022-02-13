@@ -159,7 +159,9 @@ INNER JOIN SQ ON GDOT.time = SQ.time;
 
 ### **Step 4: Deploy the Notebook as a Web Application**
 Use the Voilà library to deploy your notebook as a web application. 
-![JupyterLab browser voila](https://github.com/nguyenthuyt/etf_analyzer/blob/main/voila_etf_analyzer.mp4)
+
+https://user-images.githubusercontent.com/95830366/153743704-18960626-63cc-4b9c-b595-3c96131c3f6b.mp4
+
 
 ### **Quit instructions:**
 After saving the file, from the menu bar, navigate to **'File'**, select **'Shutdown'** from the drop-down menu and confirm Shut Down.
